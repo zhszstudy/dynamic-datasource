@@ -3,6 +3,8 @@
 #### 介绍
 SpringBoot+Mybatis-Plus实现动态数据源
 
+**详见：**https://blog.csdn.net/zhouDonQuixote/article/details/145816875?spm=1001.2014.3001.5502
+
 
 
 #### 使用说明
